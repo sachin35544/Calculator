@@ -1,5 +1,6 @@
 Hi this is my first calcuator
-tis is a simple numerical calculator
+<br>
+and it is simple numerical calculator
 
 ## features
 
