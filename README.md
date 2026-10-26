@@ -2,11 +2,15 @@
 
 A sleek, responsive calculator built with plain HTML, CSS, and JavaScript. This project focuses on a clean neumorphic interface, smooth interactions, and an easy-to-use numeric layout.
 
+## Live Demo
+
+Check out the project here: [Calculator Demo](https://sachin35544.github.io/Calculator/)
+
 ![Calculator UI](./assets/calculator-icon.png)
 
 ## Overview
 
-This calculator is a lightweight front-end web app designed for quick arithmetic operations such as addition, subtraction, multiplication, division, percentage calculations, and decimal input. It is fully static and can be opened directly in a browser without requiring any build tools or dependencies.
+This calculator is a lightweight front-end web app designed for quick arithmetic operations such as addition, subtraction, multiplication, division, percentage calculations, and decimal input. It is focused on delivering a clear interface and efficient user experience.
 
 ## Features
 
